@@ -13,12 +13,12 @@ global.prems = []
 
 
 //Make Changes #ATY
-global.bname = 'Wiley-md'     //Your Bot Name
-global.oname = 'Gariox & Shizo'     //Your Name
-global.onum = '919172389527' //Number for status forwarding 
-global.iglink = 'https://Instagram.com/error.mods'     //Your Instagram Link
-global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel Link
-global.gclink = 'https://chat.whatsapp.com/F8QOoaz3qWqJlI2mwpa1QH' //Your WhatsApp Group Link
+global.bname = 'Poison-MD'     //Your Bot Name
+global.oname = 'Abdul'     //Your Name
+global.onum = '254798708444' //Number for status forwarding 
+global.iglink = 'https://instagram.com/noo.b.i.e?igshid=OTk0YzhjMDVlZA=='     //Your Instagram Link
+global.ytlink = 'https://YouTube.com/@poisonmods'      //Your YouTube Channel Link
+global.gclink = 'https://chat.whatsapp.com/HAWJUHgf2NE1iwfPrkDrcT' //Your WhatsApp Group Link
 global.script = 'https://github.com/Shizothetechie/wiley-md'  //Donot Change if you appreciate our work 🙂❤️
 
 
