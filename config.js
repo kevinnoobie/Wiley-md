@@ -24,7 +24,7 @@ global.script = 'https://github.com/Shizothetechie/wiley-md'  //Donot Change if 
 
 
 //Global ImgRes #NMTM
-global.menuimg = fs.readFileSync('./media/menu.png')
+global.menuimg = fs.readFileSync('./media/logo.png')
 global.btnimg = fs.readFileSync('./media/logo.png')
 global.imgmenu = fs.readFileSync('./media/logo.png')
 
